@@ -21,7 +21,7 @@ MDPin now includes a web server to serve the website which makes the Interface. 
 By default, the website is started with the server, and is accessible via `yourIpAdress:8075/web/index.html`. eg. `127.0.0.1:8075/web/index.html`. To find it, you can search for "Website Reachable" when starting up the server script. If you want to, you can host the webpage somewhere else, like described above. To start the server with the Python API you need to run: 
 
 ```
-$ git clone https://github.com/bastien8060/MDPin
+$ git clone https://github.com/777irug/mdpin
 $ cd MDPin/py
 $ python3 pwn.py
 ```
